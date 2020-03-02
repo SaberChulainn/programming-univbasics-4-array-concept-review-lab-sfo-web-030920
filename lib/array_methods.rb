@@ -29,7 +29,7 @@ def find_min_value(array)
    if num < array[counter]
      num = array[counter]
    end
-   counter +=1
+   counter += 1
  end
  return num
 end
